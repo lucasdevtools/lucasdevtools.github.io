@@ -57,6 +57,7 @@ input, .panel{display:none}
 .panels{
   font-family: monospace;
   margin: 5px 5px 0 0;
+  overflow-y: auto;
 }
 
 .const{color: #62dafc;}

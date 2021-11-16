@@ -8,7 +8,6 @@ class web {
     {img:"Java.jpg", sec:"Back-End"}
   ];
   #Frameworks = [
-    {img:"Vue.JS.jpg", sec:"Frond-end"},
     {img:"React.JS.jpg", sec:"Frond-end"},
     {img:"Angular.jpg", sec:"Frond-end"},
     {img:"ASP.NET.jpg", sec:"Back-End"},

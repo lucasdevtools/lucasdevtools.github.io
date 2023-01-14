@@ -1,0 +1,28 @@
+.div4 {
+    display: inline;
+    text-align: center;
+}
+
+.div4>i {
+    font-size: 5rem;
+    /* border: 1px solid red; */
+    background-color: #74302f18;
+    background: radial-gradient(circle, #181e46 0%, #13162f 80%);
+    padding: 1rem;
+    border-radius: 1px;
+    line-height: 8rem;
+
+}
+
+.div4>p {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    font-family: serif;
+    font-weight: bold;
+    /* background: linear-gradient(yellow, red); */
+    background: linear-gradient(to right, #0ebb0e, rgb(240, 115, 32));
+    -webkit-background-clip: text;
+    color: transparent;
+    padding: auto;
+    line-height: 35px;
+}

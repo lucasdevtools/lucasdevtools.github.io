@@ -60,3 +60,18 @@
 .type {
     color: #379437;
 }
+@media (orientation: portrait) {
+  .div2 {
+    grid-template:
+      "a" 1fr
+      "d" 4fr
+      "b" 1fr
+      "c" 1fr / 1fr;
+  }
+
+
+  .div2{
+    width: 100%;
+  }
+
+}

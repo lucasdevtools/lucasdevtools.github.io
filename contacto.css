@@ -73,3 +73,14 @@
     border-radius: 4px;
     text-indent: none;
 }
+@media (orientation: portrait) {
+  .div5 {
+    grid-template:
+      "a" 400px
+      "b" 400px / 80%;
+  }
+  .div5 {
+    width: 100%;
+  }
+
+}
